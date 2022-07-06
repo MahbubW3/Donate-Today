@@ -11,11 +11,45 @@ body{font-family: 'Poppins', sans-serif;}
 .Button{
   text-decoration: none;
   color: floralwhite;
-  background-color: rgb(190, 67, 67);
+  background-color: rgb(176, 18, 18);
   border-radius: 5px;
   padding: 10px 20px;
-  margin-left: ;
+  
 }
 .section1{
     text-align: center;
 }
+.section2{
+    text-align: center;
+}
+
+
+.figure{
+    display: flex;
+    justify-content: center;
+}
+.figure h2 { margin:0 10px; 
+  
+}
+
+.one {
+    background-color: rgb(244, 239, 239);
+}
+.two{
+    background-color: rgb(244, 239, 239);
+    border : 1px solid rgb(204, 14, 14);
+    border-radius: 5px;
+    color: rgb(204, 14, 14);
+    width:max-content;
+}
+.three {
+    background-color: rgb(244, 239, 239);
+}
+.four {
+    background-color: rgb(244, 239, 239);
+}
+.five {
+    background-color: rgb(244, 239, 239);
+}
+.others{color: rgb(167, 171, 159);
+text-align: center;}
