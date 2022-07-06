@@ -1,0 +1,21 @@
+body{font-family: 'Poppins', sans-serif;}
+
+.first{
+    color: white;
+    background-image: url(images/donation6.jpg);
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.Button{
+  text-decoration: none;
+  color: floralwhite;
+  background-color: rgb(190, 67, 67);
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-left: ;
+}
+.section1{
+    text-align: center;
+}
